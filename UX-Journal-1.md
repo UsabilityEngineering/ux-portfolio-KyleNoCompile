@@ -1,3 +1,5 @@
+### Journal Entry One: By Kyle Reeves, 3/6/2021
+
 #### Journal 1 : My user eXperience with fixing my parent's broken laptop:
 
 
