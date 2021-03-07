@@ -4,7 +4,7 @@
 ## UX Team Project : Box Bois 
 
 
-## UX Journal :
+## UX Journal : [a relative link](UX-Journal-1)
 
 
 ### Journal Entry One: By Kyle Reeves, 3/6/2021
