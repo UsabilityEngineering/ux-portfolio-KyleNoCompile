@@ -1,11 +1,10 @@
 # Kyle's very serious user eXperience
 
 
-# UX Team Project :
-  ## Box Bois 
+## UX Team Project : Box Bois 
 
 
-# UX Journal :
+## UX Journal :
   ### Journal Entry One: By Kyle Reeves, 3/6/2021
   #### My user eXperience with fixing my parent's broken laptop:
 
