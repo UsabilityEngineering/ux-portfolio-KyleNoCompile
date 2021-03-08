@@ -10,7 +10,6 @@ Last Sunday morning, my Dad woke me up saying he needed some technical support w
 
 ![Figure 2](https://i.imgur.com/R2IwTay.jpg "Figure 2")
 
-Definitions:
   
 -*memorable*: Easily remembered due to simplicity.
 
