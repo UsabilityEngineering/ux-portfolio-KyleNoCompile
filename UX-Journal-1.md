@@ -10,9 +10,8 @@ Last Sunday morning, my Dad woke me up saying he needed some technical support w
 
 ![Figure 2](https://i.imgur.com/R2IwTay.jpg "Figure 2")
 
-
-  Definitions:
+Definitions:
   
-  -*memorable*: Easily remembered due to simplicity.
+-*memorable*: Easily remembered due to simplicity.
 
-  -*error tolerant*: A design that is created with human error in mind and allows the user to have little to no roadblocks when going from point A to point B. 
+-*error tolerant*: A design that is created with human error in mind and allows the user to have little to no roadblocks when going from point A to point B. 
