@@ -7,3 +7,5 @@
 ## UX Journal :
 
 ### See journal one entry [here](UX-Journal-1.md)
+
+### See journal two entry [here](UX-Journal-2.md)
