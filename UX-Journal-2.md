@@ -1,7 +1,7 @@
 
-Journal Entry Two: By Kyle Reeves, 5/1/2021
+### Journal Entry Two: By Kyle Reeves, 5/1/2021
 
-My user eXperience with dual booting my PC: 
+#### My user eXperience with dual booting my PC: 
 
 Two weekends ago I had little to nothing to do, so I decided I would create something for myself to do. I have always been curious about Linux operating systems so I figured I would try to get one working properly on my Windows 10 PC. My goal this weekend was to dual boot my computer so during startup, I could either pick my Windows 10 machine or my new Ubuntu Linux machine. My main reasoning behind doing this is because before, I had done all my schoolwork on my Apple Macbook and I wanted a work environment on my PC that wouldn’t distract me. This would cause my PC to become more efficient as it now exists as both my gaming / casual computer and my work computer. With this however, I had no idea where to start or how I would accomplish this task.
 
@@ -11,3 +11,7 @@ Now that all the setup steps had been completed, I plugged my boot drive in and 
 
 Now the last step in this process is to configure dual boot so that I can access both machines easily during my computer startup. To achieve this, I booted into my Windows 10 machine and used a program called “EasyBCD” which is designed to create these dual boot systems. After using the program, now wherever I startup my computer it displays a screen asking which machine I would like to boot up (see figure 4). Now my computer can either run Windows 10 or Ubuntu 20.04 and my dual boot goal has been completed. 
 
+![Figure 1](https://i.imgur.com/gFp9wa8.png)
+![Figure 2](https://i.imgur.com/r2xjrLv.png)
+![Figure 3](https://i.imgur.com/Ndu7gzS.png)
+![Figure 4](https://i.imgur.com/0tmB4fO.png)
