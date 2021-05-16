@@ -12,7 +12,7 @@
 #### Figure 1
 ![Figure 1](https://i.imgur.com/gFp9wa8.png)
 
-After this change, the next time I booted up my computer it ran the boot drive and began the Ubuntu live setup. This process is similar to other setup processes, Ubuntu had me choose my language, set up my wifi, create an account and password, and configure where it would be installed. (see figure 2 - 3) After this was done, I had successfully created a working version of Ubuntu on my computer.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After this change, the next time I booted up my computer it ran the boot drive and began the Ubuntu live setup. This process is similar to other setup processes, Ubuntu had me choose my language, set up my wifi, create an account and password, and configure where it would be installed. (see figure 2 - 3) After this was done, I had successfully created a working version of Ubuntu on my computer.
 
 #### Figure 2
 ![Figure 2](https://i.imgur.com/r2xjrLv.png)
