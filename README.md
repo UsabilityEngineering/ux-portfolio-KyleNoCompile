@@ -1,8 +1,11 @@
-# UX Portfolio
+# Kyle's very serious user eXperience
 
 
-## UX Team Project
+## UX Team Project : Box Bois 
 
 
-## UX Journal
+## UX Journal :
 
+### See journal one entry [here](UX-Journal-1.md)
+
+### See journal two entry [here](UX-Journal-2.md)
